@@ -1,4 +1,4 @@
- # Lesson plan
+ # Lesson plan 1
  > In this activity your group is tasked to create the ABC's by taking pictures of various items around you and add them to your website.
 >
 >Letter A has already been completed, use it as a reference for all other letters you have to complete.
