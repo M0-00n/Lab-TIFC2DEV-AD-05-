@@ -3,6 +3,19 @@ html {
     width: 100%;
   }
   
-
-h3 {
-  color: green;
+  
+  h3 {
+    color: green;
+  }
+  body {
+    background-color: gray;
+  }
+  
+  .classblue {
+    color: blue; 
+  }
+  
+  .red-text {
+    color: red;
+  }
+  
